@@ -1,0 +1,26 @@
+body {
+    font-family: Ubuntu;
+    color: #0d0d0d;
+}
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.topLabel {
+    font-size: 120%;
+    line-height: 3rem;
+}
+
+.buttomLabel {
+    line-height: 2rem;
+}
+
+#canvasContainer {
+    width: 405px;
+    height: 720px;
+    background-color: aqua;
+}
